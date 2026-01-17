@@ -1,0 +1,37 @@
+p {
+    color: rgb(246, 129, 149);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+h1 {
+    color: aliceblue;
+}
+
+h2 {
+    color: aliceblue;
+}
+
+h3 {
+    color: aliceblue;
+}
+
+h4 {
+    color: aliceblue;
+}
+
+body {
+    background-color: rgb(49, 47, 51);
+}
+
+a {
+    color: #f7f6f6;
+}
+
+a:hover {
+    color: blueviolet;
+}
+
+ol {
+    color: aliceblue;
+
+}
